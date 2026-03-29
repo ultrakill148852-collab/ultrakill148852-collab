@@ -2,16 +2,16 @@
 
 ## 🛠️ Languages & Tools
 
-![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=rust,python,cpp,js,ts,java,go,docker,linux,git,github,vscode" alt="Skills" />
+</div>
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ultrakill148852-collab&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ultrakill148852-collab&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ultrakill148852-collab&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ultrakill148852-collab&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
 
 ## 🏆 Featured Projects
 
