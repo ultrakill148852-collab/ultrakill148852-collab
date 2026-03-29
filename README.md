@@ -22,3 +22,9 @@ Cryptographically chained packet transport protocol written in Rust.
 ---
 
 **Creator of the VCL Protocol** | Advanced Programmer | Cryptography Enthusiast
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ultrakill148852-collab&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ultrakill148852-collab&layout=compact&theme=radical)
