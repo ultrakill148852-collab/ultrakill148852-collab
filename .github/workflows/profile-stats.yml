@@ -1,20 +1,15 @@
-name: Update Profile Stats
+name: Simple Profile Update
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
-  update-stats:
+  update-readme:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       
-      - name: Update README
-        uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          COMMIT_MSG: "Update GitHub Activity"
-          MAX_LINES: 10
+      - name: Update last updated timestamp
+        uses: gautamkrishnar/keepalive-workflow@master
