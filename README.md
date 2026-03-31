@@ -15,7 +15,7 @@
 <img src="https://skillicons.dev/icons?i=rust,python,cpp,c,js,ts,java,go,bash" alt="languages" />
 
 ### 🖥️ Systems & Platforms
-<img src="https://skillicons.dev/icons?i=linux,windows,macos,android,docker,kubernetes" alt="platforms" />
+<img src="https://skillicons.dev/icons?i=linux,windows,docker,kubernetes" alt="platforms" />
 
 ### 🔧 Development Tools
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,cmake,nginx,postgres,redis,mongodb" alt="tools" />
