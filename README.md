@@ -6,13 +6,6 @@
   <img src="https://skillicons.dev/icons?i=rust,python,cpp,js,ts,java,go,docker,linux,git,github,vscode" alt="Skills" />
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ultrakill148852-collab&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ultrakill148852-collab&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
 ## 🏆 Featured Projects
 
 ### VCL Protocol
