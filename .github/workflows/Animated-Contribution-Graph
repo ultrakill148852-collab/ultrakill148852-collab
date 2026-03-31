@@ -1,0 +1,17 @@
+name: Contribution Graph Animation
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-graph:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Generate Calendar
+        uses: contributte/contributte-action@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
