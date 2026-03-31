@@ -11,20 +11,15 @@
 
 <div align="center">
 
-### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=rust,python,cpp,c,js,ts,java,go,bash,assembly" alt="languages" />
-
-### 🐧 Systems & Platforms
-<img src="https://skillicons.dev/icons?i=linux,windows,android," alt="platforms" />
-
-### 🛠️ Development Tools
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,kubernetes,cmake,llvm,nginx" alt="tools" />
-
-### 📝 Editors & IDEs
-<img src="https://skillicons.dev/icons?i=vscode,vim,neovim,visualstudio,clion,pycharm" alt="editors" />
-
-### 🔐 Security & Crypto
-<img src="https://skillicons.dev/icons?i=openssl,wireshark,postman,swagger" alt="security" />
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
 
 </div>
 
